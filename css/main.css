@@ -199,7 +199,7 @@ header.project-page {
     padding: 115px 0;
 }
 
-#Projects.project-list{
+#Projects .project-list{
     float: left;
     width: 300px;
     padding: 0 50px;
