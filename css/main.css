@@ -183,7 +183,6 @@ header h2 {
 }
 
 /****** Projects Page Styles ******/
-
 /****** Projects Page Header Styles ******/
 
 header.project-page {
@@ -191,38 +190,38 @@ header.project-page {
 }
 
 /****** Projects Page Projects Styles ******/
-#Projects {
+#projects {
     background: #f5f5f5;
     text-align: center;
 }
-#Projects .content-wrapper {
+#projects .content-wrapper {
     padding: 115px 0;
 }
 
-#Projects .project-list{
+#projects .project-list{
     float: left;
     width: 300px;
     padding: 0 50px;
 }
 
-#Projects h2 {
+#projects h2 {
     font-family: 'Lora', serif;
     font-size: 36px;
     padding-bottom: 40px;
 }
 
-#Projects img {
+#projects img {
     width: 300px;
     padding-bottom: 30px;
     
 }
 
-#Projects h3 {
+#projects h3 {
     font-size: 24px;
     line-height: 36px;
 }
 
-#Projects p {
+#projects p {
     font-size: 20px;
     line-height: 40px;
     text-align: left;
